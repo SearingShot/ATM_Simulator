@@ -1,7 +1,5 @@
 """Design implementation module for the Bank-System"""
 
-__author__ = "Johnson Onoja <johnsononoja60@yahoo.com"
-
 from tkinter import *
 
 def mainDesign(master,self):

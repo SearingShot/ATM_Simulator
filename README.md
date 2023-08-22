@@ -42,4 +42,6 @@ This project is an ATM simulator built using Tkinter for the graphical interface
 - Search for specific user accounts using their account numbers.
 - Perform administrative actions on user accounts.
 
-![image](https://github.com/SearingShot/ATM_Simulator/assets/121299642/6c789568-7978-4034-9399-f6035dcf61f0)
+## Screenshots
+![bandicam 2023-08-22 22-52-37-258](https://github.com/SearingShot/ATM_Simulator/assets/121299642/9f652d1b-afcf-418c-8bcd-6c4ab938e190)
+**UI Bank Simulation Home Page**

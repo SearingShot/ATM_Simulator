@@ -1,7 +1,5 @@
 """Controls Admin,Bank System And ATM Data"""
 
-__author__ = "Johnson Onoja <johnsononoja60@yahoo.com"
-
 from tkinter import messagebox
 
 class Admin(object):

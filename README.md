@@ -20,6 +20,7 @@ This project is an ATM simulator built using Tkinter for the graphical interface
 
 ## Technologies Used
 
-- Python
-- Tkinter (GUI library)
-- local database.txt file
+- **Python**: The programming language used to develop the bank system application.
+- **Tkinter**: A GUI framework in Python used for creating the graphical user interface.
+- **Random Module**: Used to generate random bank PINs for users.
+- **Custom Modules**: Custom-made Python modules for implementing specific functionalities, including `BankAtm`, `Admin`, and `Design`.

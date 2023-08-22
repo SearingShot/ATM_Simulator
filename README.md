@@ -44,4 +44,4 @@ This project is an ATM simulator built using Tkinter for the graphical interface
 
 ## Screenshots
 ![bandicam 2023-08-22 22-52-37-258](https://github.com/SearingShot/ATM_Simulator/assets/121299642/9f652d1b-afcf-418c-8bcd-6c4ab938e190)
-**UI Bank Simulation Home Page**
+*UI Bank Simulation Home Page.*

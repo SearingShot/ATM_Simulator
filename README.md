@@ -43,18 +43,18 @@ This project is an ATM simulator built using Tkinter for the graphical interface
 - Perform administrative actions on user accounts.
 
 ## Screenshots
-![bandicam 2023-08-22 22-52-37-258](https://github.com/SearingShot/ATM_Simulator/assets/121299642/9f652d1b-afcf-418c-8bcd-6c4ab938e190)
 
 ##### *UI Bank Home Page.* 
 
-![bandicam 2023-08-22 23-04-42-619](https://github.com/SearingShot/ATM_Simulator/assets/121299642/3fefb34c-4e88-481c-8666-105634efdb91)
+![bandicam 2023-08-22 22-52-37-258](https://github.com/SearingShot/ATM_Simulator/assets/121299642/9f652d1b-afcf-418c-8bcd-6c4ab938e190)
 
 ##### *When Logging in As a Admin*
 
-![bandicam 2023-08-22 23-07-46-189](https://github.com/SearingShot/ATM_Simulator/assets/121299642/509e107d-c089-4099-91ef-a239f9e83219)
+![bandicam 2023-08-22 23-04-42-619](https://github.com/SearingShot/ATM_Simulator/assets/121299642/3fefb34c-4e88-481c-8666-105634efdb91)
 
 ##### *When Logging in As a User*
 
+![bandicam 2023-08-22 23-07-46-189](https://github.com/SearingShot/ATM_Simulator/assets/121299642/509e107d-c089-4099-91ef-a239f9e83219)
 
 
 

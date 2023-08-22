@@ -24,3 +24,22 @@ This project is an ATM simulator built using Tkinter for the graphical interface
 - **Tkinter**: A GUI framework in Python used for creating the graphical user interface.
 - **Random Module**: Used to generate random bank PINs for users.
 - **Custom Modules**: Custom-made Python modules for implementing specific functionalities, including `BankAtm`, `Admin`, and `Design`.
+
+## Installation and Usage
+
+1. Clone the repository to your local machine.
+
+2. Run the `main.py` script using Python to launch the bank system application.
+
+3. If you're a user:
+- Enter your account number and PIN.
+- Choose from the available actions (withdraw, deposit, transfer, change PIN, delete account).
+- Follow the on-screen instructions to complete the selected action.
+
+4. If you're an admin:
+- Log in using the admin credentials.
+- View the list of all user accounts.
+- Search for specific user accounts using their account numbers.
+- Perform administrative actions on user accounts.
+
+![image](https://github.com/SearingShot/ATM_Simulator/assets/121299642/6c789568-7978-4034-9399-f6035dcf61f0)

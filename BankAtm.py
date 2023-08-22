@@ -1,7 +1,5 @@
 """ Controls Bank System And User's Interaction"""
 
-__author__ = "Johnson Onoja <johnsononoja60@yahoo.com"
-
 from tkinter import messagebox
 import string
 import logging

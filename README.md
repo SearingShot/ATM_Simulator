@@ -1,1 +1,25 @@
-# ATM_Simulator
+# ATM Simulator with User, Admin, and ATM Interactions
+
+This project is an ATM simulator built using Tkinter for the graphical interface and a local database for storing account information. It simulates interactions between users, administrators, and an ATM system.
+
+## Features
+
+- User Account Management
+  - Display user account information
+  - Withdraw funds from the account
+  - Deposit funds into the account
+  - Transfer funds between accounts
+  - Change PIN for account security
+  - Delete user accounts
+
+- Admin Functions
+  - Admin login for secure access
+  - View list of all user accounts
+  - Search for specific user accounts
+  - Perform administrative actions on accounts
+
+## Technologies Used
+
+- Python
+- Tkinter (GUI library)
+- local database.txt file
